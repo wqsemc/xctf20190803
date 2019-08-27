@@ -17,7 +17,7 @@ De1CTF
 官方链接：
 https://De1ctf2019.xctf.org.cn
 时间：
-2019年8月3日 09:00——2019年8月5日 09:00
+2019年8月3日 09:00——2019年8月5日 09:00 UTC+08:00
 
 比赛详情
 /Contest details
@@ -160,3 +160,270 @@ Pwn、Web security、Crypto、Reverse engineering、Misc
 98	onotch		648.0	3.40
 99	我就来划划水别看我		648.0	3.39
 100	究极划水战队		648.0	3.3
+
+
+
+
+
+
+
+
+
+
+
+Misc========
+We1come
+t.me  https://t.me/De1CTF
+
+Mine Sweeping
+enjoy the game :)
+Mine Sweeping.zip   https://share.weiyun.com/5c2K8Is
+Mine Sweeping.zip   https://drive.google.com/open?id=1qzuIMdFolHVr_qxMxUcRQRlbrwb1SRR8
+
+DeeplnReal
+层层深入挖掘，发现真相。题目改编自真实案例。
+文件大小30GB，请优先下载
+Digging deeper and find the real truth. The challenge is based on real case.
+File size is 30GB, plz download first!
+deepinreal (weiyun)   https://share.weiyun.com/5JMqJdT
+deepinreal (baiduyun)   https://pan.baidu.com/s/1O-A-lbRRADLYqK0y9UDX-w
+deepinreal (google drive)   https://drive.google.com/drive/folders/1qrSPaE1V39a4W3yP8lXHfXAX_SuOIbYk
+deepinreal (mega)   https://mega.nz/#F!SiInRaKA!SBtuAQrevLcjO823h1tnPg
+deepinreal (mycloud)   http://222.85.25.40/deepinreal/
+
+Easy EOS
+Try to win this game.
+
+account: de1ctf111eos
+
+EOS Jungle2.0 Testnet
+
+You need to win at least 10 times.
+
+You can ask for a flag with the sendmail function. (username: your account, address: your email address)
+
+
+hint for [Easy EOS]: the num of bet action is in range 0-4. Decompilation is optional.
+
+hint for [Easy EOS]: if you lost，you can't bet anymore with this account.
+
+Upgrade
+在挖掘小型设备的漏洞时，通过刷固件getshell是一个很方便的途径，但首先得提取出文件系统。
+
+It's a good way to getshell IOT by repackage firmware, but you need to extract its file system first.
+
+Upgrade.zip   https://share.weiyun.com/5CyNkH3
+
+Upgrade.zip   https://drive.google.com/file/d/1bVtf48_CPYaCDAtvM0F1PAgX4ekqVB3H/view
+
+
+hint for [Upgrade]: DIR-850L
+
+DeepEncrypt
+Deep Encrypt
+Hi, Ming has recently trained a deep encrypt model having used the 'flag_sampe.txt' and the 'enc_sample.txt'.
+
+There are totally 512 samples in 'flag_sample.txt' and for each line in the file represents a flag sample. As the same, there are also 512 "encrypted" data in the 'enc_sample.txt' and for each line represents the "encrypted" result for the flag in the same line in 'flag_sample.txt'.
+
+The 'enc.hdf5' is the model that Ming has trained.
+
+Model Input shape: (128, )
+
+Model Output shape: (64, )
+
+Here is also a encrypted flag 'flag_enc.txt' which is encrypted by the model. Can you give me the raw flag to crack this "Deep Encrypt" model?
+
+nc 139.180.211.97 9999
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/1c7e29cf6db741bf8abce9f5e761341e.zip
+
+De1CTF 2019 Qestionnaire
+Hello everyone, it may take you a few minutes to fill out the questionnaire to help us to do better next time.
+
+https://www.wenjuan.com/s/RVRBVbl/
+
+Crypto========
+xorz
+xorzzz...
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/6d5dfac785bb422a9d72cb18a55f1319.zip
+
+
+Babylfsr
+Do some math
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/08cc8e084f274dd589c2fd0d7c780115.zip
+
+Obscured
+nc 45.32.100.6 8003（Singapore）
+
+nc 39.108.37.223 8003 (China)
+
+题目附件： 点击下载附件 1  https://adworld.xctf.org.cn/media/uploads/task/a031773eb8b3434da85e340d84a18728.zip
+
+Mini Purε
+nc 45.32.100.6 10036 (Singapore)
+
+nc 39.108.37.223 10036 (China)
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/8b6309cca0614bdd8c6b1bc191300355.zip
+
+hint for [Mini Purε]: No need C or C++ scripts , python or sage scripts is enough
+
+Baby Rsa
+rsa is good but the coder may not?
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/f0a409a0f76e4213a421827829921e83.zip
+
+Pwn========
+Weapon
+Do it ！
+
+nc 139.180.216.34 8888
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/73a59e112e474def8b8c559c3176871f.zip
+
+Unprintable
+nc 45.32.120.212 9999
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/3231279bfeed46a7926ded663a8db88f.zip
+
+Race
+nc 149.28.159.67:2333
+
+another server:
+
+nc 45.77.240.111:2333
+
+race.zip   https://share.weiyun.com/5h0Tgjm
+
+race.zip   https://drive.google.com/file/d/1bDu5devJIQ7mChak1lA8PteEDqfXWEAb/view?usp=sharing
+
+
+hint for [Race]: ret2dir
+
+BabyRust
+Safe Rust not Safe sometimes
+
+nc 207.148.126.75 60001
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/2b7a479db49848fe97e4ae6031f322b6.zip
+
+A+B Judge
+I build an A+B problem online judge. You can try it!
+
+http://45.77.240.10:11111/
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/09183d7a0f634e30b2f072a589a1587f.zip
+
+Mimic_note
+nc 45.32.120.212 6666
+
+tips: libc is 2.23
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/ed5108e2c68b4554ba8940b0e9236783.zip
+
+hint for [Mimic_note]: The attachment is update and add a new file, plz download the latest one.
+
+Reverse========
+Re_Sign
+UPX
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/6fc5afe660714a7c8d04c4fde4803c37.zip
+
+Cplusplus
+正如它的名字所言，这是一个C++逆向题
+
+As its name suggests, this is a C++ REVERSE.
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/4f7f1b7ed92b40d9b90ce5823caeba06.zip
+
+hint for [Cplusplus]: hashlib.md5("de1ctf{***}").hexdigest() == '0e3c375c8112a7c7c00547e54895fdcc'
+
+Evil_boost
+刚刚的Cplusplus太简单，这次试试Evil_boost
+
+Cplusplus is too simple before, try Evil_boost this time
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/9e88867e209c4e26b2a86d148aeadd06.zip
+
+Signal vm
+Crack me.
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/768b7f0a54c04789ab25721c4a0cd388.zip
+
+Signal vm Δ
+Another signal vm challenge. You can get the flag automatically, but it may take a LITTLE time.
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/2947bba3354946d5a15c091428420fa4.zip
+
+Web========
+SSRF Me
+SSRF ME TO GET FLAG.
+
+http://139.180.128.86/
+
+
+hint for [SSRF Me]: flag is in ./flag.txt
+
+9calc
+calcalcalc again and again...
+
+9-calc-eposide.3
+
+http://45.77.242.16/
+
+题目附件： 点击下载附件 1   https://adworld.xctf.org.cn/media/uploads/task/2abcf0412c47452ba5ac71346bc4c3dd.zip
+
+hint for [9calc]: v1: RCTF2019 calcalcalc v2: 0CTF2019 114514calcalcalc v3：9calc
+
+ShellShellShell
+hint : The flag file ,with "flag" keyword ,is in the inside computer.(flag文件在内网的机子上，并且flag文件的文件名带有flag关键字)
+
+shell me plz
+
+server1:
+
+http://123.207.72.148:11027/index.php?action=login
+
+server2:
+
+http://139.180.220.125:11027/index.php?action=login
+
+
+hint for [ShellShellShell]: Source Code Leakage,for example : `.index.php.swp`. Code audit ,please
+
+hint for [ShellShellShell]: real flag is in the lan-network，ignore the upload file's fake flag.
+hint for [DeeplnReal]: win+w
+hint for [DeeplnReal]：eth private key
+hint for [DeeplnReal]: startup folder
+hint for [DeeplnReal]: ntfs ads
+
+Giftbox
+送给小蛮腰的礼物，她是一位美丽的姑娘。
+
+A gift for Canton Tower, a pretty girl.
+
+http://207.148.79.106:8090 (sg-sgp)
+
+http://45.76.193.153:8090 (jp-tky)
+
+http://222.85.25.41:8090 (cn-zgz)
+
+http://136.244.114.21:8090 (fr-par)
+
+http://66.42.96.82:8090 (us-lax)
+
+cloudmusic_rev
+滑稽云音乐平台 2.0 上线了。
+
+Comical CloudMusis 2.0 is online.
+
+http://139.180.144.87:9090 (sg-sgp)
+
+http://222.85.25.41:9090 (cn-zgz)
+
+http://149.248.17.220:9090 (us-lax)
+
+
+hint for [cloudmusic_rev]: Any scanner is not helpful.
